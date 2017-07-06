@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-spring-cloud-baeldung.iml" filepath="$PROJECT_DIR$/learn-spring-cloud-baeldung.iml" />
     </modules>
   </component>
